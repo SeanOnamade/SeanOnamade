@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sean 👋</h1>
-<h3 align="center">A passionate CS student at Vanderbilt University</h3>
+<!-- <h3 align="center">A passionate CS student at Vanderbilt University</h3> -->
 
 
 - 🔭 I’m currently working on **Dot-ify, a musichttps://github.com/SeanOnamade/BasicProjects player app**
