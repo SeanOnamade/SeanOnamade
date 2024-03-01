@@ -2,7 +2,7 @@
 <!-- <h3 align="center">A passionate CS student at Vanderbilt University</h3> -->
 
 
-- 🔭 I’m currently working on **Dot-ify, a musichttps://github.com/SeanOnamade/BasicProjects player app**
+- 🔭 I’m currently working on **[Dot-ify](https://github.com/SeanOnamade/BasicProjects), a music player app**
 
 - 🌱 I’m currently strengthening my skills with **Python, HTML, CSS, and Javascript**
 
