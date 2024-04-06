@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Sean 👋</h1>
 <!-- <h3 align="center">A passionate CS student at Vanderbilt University</h3> -->
+<!--**[Dot-ify](https://github.com/SeanOnamade/BasicProjects), a music player app**-->
 
-
-- 🔭 I’m currently working on **[Dot-ify](https://github.com/SeanOnamade/BasicProjects), a music player app**
+- 🔭 I’m currently working on **my portfolio site**
 
 - 🌱 I’m currently strengthening my skills with **Python, HTML, CSS, and Javascript**
 
