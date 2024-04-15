@@ -2,7 +2,7 @@
 <!-- <h3 align="center">A passionate CS student at Vanderbilt University</h3> -->
 <!--**[Dot-ify](https://github.com/SeanOnamade/BasicProjects), a music player app**-->
 
-- 🔭 I’m currently working on **[my portfolio site](https://seanonamade.github.io/)! Check it out here!**
+- 🔭 I’m currently working on **[my portfolio site!](https://seanonamade.github.io/)** Check it out here!
 
 - 🌱 I’m currently strengthening my skills with **Python, HTML, CSS, and Javascript**
 
@@ -14,7 +14,7 @@
 
 - 📄 Learn about my experiences (resume) [https://sean-onamade-resume.tiiny.site/](https://sean-onamade-resume.tiiny.site/)
 
-- ⚡ Fun fact: **I lived in Scotland for 7 years**
+- ⚡ Fun fact: **I lived in Scotland for 7 years!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,6 +22,7 @@
 <a href="https://twitter.com/onamadesean" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="onamadesean" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/seanonamade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seanonamade" height="30" width="40" /></a>
 <a href="https://instagram.com/sean_cena01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sean_cena01" height="30" width="40" /></a>
+  <a href="https://instagram.com/sdo.photos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sean_cena01" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
