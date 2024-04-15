@@ -2,7 +2,7 @@
 <!-- <h3 align="center">A passionate CS student at Vanderbilt University</h3> -->
 <!--**[Dot-ify](https://github.com/SeanOnamade/BasicProjects), a music player app**-->
 
-- 🔭 I’m currently working on **[my portfolio site](https://seanonamade.github.io/)**
+- 🔭 I’m currently working on **[my portfolio site](https://seanonamade.github.io/)! Check it out here!**
 
 - 🌱 I’m currently strengthening my skills with **Python, HTML, CSS, and Javascript**
 
@@ -14,7 +14,7 @@
 
 - 📄 Learn about my experiences (resume) [https://sean-onamade-resume.tiiny.site/](https://sean-onamade-resume.tiiny.site/)
 
-- ⚡ Fun fact **I lived in Scotland for 7 years**
+- ⚡ Fun fact: **I lived in Scotland for 7 years**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
