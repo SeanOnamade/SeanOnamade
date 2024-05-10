@@ -8,7 +8,7 @@
 
 - 📸 Our photo-sharing application, [GalleryPro](https://github.com/osmanosy23/seo)
 
-- 👨‍💻 All of my basic projects are available at [https://github.com/SeanOnamade/BasicProjects](https://github.com/SeanOnamade/BasicProjects)
+- 👨‍💻 A few of my basic projects are available at [https://github.com/SeanOnamade/BasicProjects](https://github.com/SeanOnamade/BasicProjects)
 
 - 📫 I can be reached at **sean.d.onamade@vanderbilt.edu**
 
