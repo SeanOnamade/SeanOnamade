@@ -1,3 +1,4 @@
+![Header](./github-header-image%20(6).png)
 <h1 align="center">Hi, I'm Sean 👋</h1>
 <!-- <h3 align="center">A passionate CS student at Vanderbilt University</h3> -->
 <!--**[Dot-ify](https://github.com/SeanOnamade/BasicProjects), a music player app**-->
