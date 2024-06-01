@@ -5,7 +5,7 @@
 <!-- <h3 align="center">A passionate CS student at Vanderbilt University</h3> -->
 <!--**[Dot-ify](https://github.com/SeanOnamade/BasicProjects), a music player app**-->
 
-- <img src="https://raw.githubusercontent.com/SeanOnamade/SeanOnamade/master/wave.gif" height="15px"> Hey, I'm Sean Onamade, a software engineer from Canada attending Vanderbilt University. I'm interested in fullstack, AI, and digital media management.
+- <img src="https://raw.githubusercontent.com/SeanOnamade/SeanOnamade/master/wave.gif" height="15px"> Hey, I'm Sean Onamade, a software engineer from Canada attending Vanderbilt University. I'm interested in fullstack, AI, and digital media management!
   
 - 🌐 Check out my **[portfolio site!](https://seanonamade.github.io/)**
 
