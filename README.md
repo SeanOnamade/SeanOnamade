@@ -1,4 +1,4 @@
-![Header](./github-header-image%20(6).png) 
+![Header](./github-header-image%20(6).png)
 <!-- ![Header](./Screenshot%202024-05-29%20172436.png) -->
 <h1 align="left">Hi, I'm Sean <img src="https://raw.githubusercontent.com/SeanOnamade/SeanOnamade/master/wave.gif" width="25px">
 </h1>
