@@ -9,13 +9,13 @@
   
 - 🌐 Check out my **[portfolio site!](https://seanonamade.github.io/)**
 
-- 🔭 I’m currently working on **AI Summer at Vanderbilt**
+- 🔭 I’m currently working on **a TF2 Weapon Generator**
 
 - 🌱 I’m currently strengthening my skills with **Tailwind and Javascript**
 
 - 📸 My photo-sharing application, [GalleryPro](https://github.com/osmanosy23/seo)
 
-- 👨‍💻 A few of my basic projects are available at [https://github.com/SeanOnamade/BasicProjects](https://github.com/SeanOnamade/BasicProjects)
+- 👨‍💻 A few of my projects are available at [https://github.com/SeanOnamade/BasicProjects](https://github.com/SeanOnamade/BasicProjects)
 
 - 📫 I can be reached at **sean.d.onamade@vanderbilt.edu**
 
