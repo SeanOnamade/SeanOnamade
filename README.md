@@ -9,7 +9,7 @@
   
 - 🌐 Check out my **[portfolio site!](https://seanonamade.github.io/)**
 
-- 🔭 I’m currently working on **a responsive JS [TF2 Weapon Generator](https://tf2weapongenerator.netlify.app/)**
+- 🔭 My latest project is **a responsive JS [TF2 Weapon Generator!](https://tf2weapongenerator.netlify.app/)**
 
 - 🌱 I’m currently strengthening my skills with **Tailwind and Javascript**
 
