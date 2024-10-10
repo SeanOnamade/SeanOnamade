@@ -10,13 +10,13 @@
   
 - 🌐 Check out my **[portfolio site!](https://seanonamade.github.io/)**
 
-- 🔭 My latest project is **a responsive JS [TF2 Weapon Generator!](https://tf2weapongenerator.netlify.app/)**
+- 🏎️ My latest project is **a custom racetrack [drawing tool!](https://github.com/SeanOnamade/racing-VH-v2/)**
 
-- 🌱 I’m currently strengthening my skills with **Tailwind and Javascript**
+<!-- - 🌱 I’m currently strengthening my skills with **Tailwind and Javascript** -->
 
-- 📸 My photo-sharing application, [GalleryPro](https://github.com/osmanosy23/seo)
+<!-- - 📸 My photo-sharing application, [GalleryPro](https://github.com/osmanosy23/seo)
 
-- 👨‍💻 A few of my projects are available at [https://github.com/SeanOnamade/BasicProjects](https://github.com/SeanOnamade/BasicProjects)
+- 👨‍💻 A few of my projects are available at [https://github.com/SeanOnamade/BasicProjects](https://github.com/SeanOnamade/BasicProjects) -->
 
 - 📫 I can be reached at **sean.d.onamade@vanderbilt.edu**
 
