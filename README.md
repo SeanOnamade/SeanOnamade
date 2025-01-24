@@ -10,7 +10,7 @@
   
 - 🌐 Check out my **[portfolio site!](https://seanonamade.github.io/)**
 
-- 🏎️ My latest project is **a racetrack [drawing tool!](https://github.com/SeanOnamade/racing-VH-v2/)**, where users can draw 2D racetracks and test them out!
+- 💈 My latest project is **[HairBnB](https://github.com/mderege/hairbnb)**, a web app connecting customers with independent hairstylists!
 
 <!-- - 🌱 I’m currently strengthening my skills with **Tailwind and Javascript** -->
 
