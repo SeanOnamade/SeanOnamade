@@ -10,13 +10,15 @@
   
 - 🌐 Check out my **[portfolio site!](https://seanonamade.github.io/)**
 
-- 💈 My latest project is **[HairBnB](https://github.com/mderege/hairbnb)**, a web app connecting customers with independent hairstylists!
+- 📰 My latest project is **[FocusFeed](https://github.com/mderege/hairbnb)**, a news aggregation and summarization platform with a web app and personalized email newsletters for streamlined news consumption!
 
 <!-- - 🌱 I’m currently strengthening my skills with **Tailwind and Javascript** -->
 
 <!-- - 📸 My photo-sharing application, [GalleryPro](https://github.com/osmanosy23/seo)
 
 - 👨‍💻 A few of my projects are available at [https://github.com/SeanOnamade/BasicProjects](https://github.com/SeanOnamade/BasicProjects) -->
+
+- 📸 Check out my **[photography portfolio!](https://seanonamade-photography.netlify.app/)**
 
 - 📫 I can be reached at **sean.d.onamade@vanderbilt.edu**
 
