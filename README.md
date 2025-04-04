@@ -10,7 +10,7 @@
   
 - 🌐 Check out my **[portfolio site!](https://seanonamade.github.io/)**
 
-- 📰 My latest project is **[FocusFeed](https://github.com/mderege/hairbnb)**, a news aggregation and summarization platform with a web app and personalized email newsletters for streamlined news consumption!
+- 📰 My latest project is **[FocusFeed](https://github.com/SeanOnamade/TLDR)**, a news aggregation and summarization platform with a web app and personalized email newsletters for streamlined news consumption!
 
 <!-- - 🌱 I’m currently strengthening my skills with **Tailwind and Javascript** -->
 
