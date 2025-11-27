@@ -8,7 +8,7 @@
 
 - I'm Sean Onamade, a software engineer from Canada attending Vanderbilt University. I'm interested in fullstack, AI, and digital media management!
   
-- 🌐 Check out my **[portfolio site!](https://seanonamade.github.io/)**
+- 🌐 Check out my **[portfolio site!](https://seanonamadeportfolio.vercel.app/)**
 
 - 📰 My latest project is **[FocusFeed](https://github.com/SeanOnamade/TLDR)**, a news aggregation and summarization platform with a web app and personalized email newsletters for streamlined news consumption! Deployed at **[focusfeed.org](https://focusfeed.org/)**
 
