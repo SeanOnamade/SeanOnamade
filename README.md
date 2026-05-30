@@ -1,12 +1,13 @@
-<h1 align="left">Hi, I'm Sean <img src="https://raw.githubusercontent.com/SeanOnamade/SeanOnamade/master/wave.gif" width="25px"></h1>
+<h1 align="left">Hi, I'm Sean! </h1>
 
-- I'm Sean Onamade, a software engineer from Canada attending Vanderbilt University. I'm interested in fullstack, AI, and digital media management!
-- 🌐 Check out my **[portfolio site](https://seanonamadeportfolio.vercel.app/)**
-- 📰 My latest project is **[FocusFeed](https://github.com/SeanOnamade/TLDR)** — a news aggregation and summarization platform with a web app and personalized email newsletters. Live at **[focusfeed.org](https://focusfeed.org/)**
-- 📸 Check out my **[photography portfolio](https://seanonamade-photography.netlify.app/)**
-- 📫 Reach me at **sean.d.onamade@vanderbilt.edu**
-- 📄 **[Resume](https://sean-onamade-resume.tiiny.site/)**
-- ⚡ Fun fact: **I lived in Scotland for 7 years!**
+- I'm Sean Onamade, a software engineer from Canada who recently graduated from Vanderbilt University. I'm interested in fullstack, backend, and AI!
+- 🌐 Check out my **[portfolio site!](https://seanonamade.github.io/)**
+- 🖥️ Or my **[other one...](https://seanonamadeportfolio.vercel.app/)**
+- 👾 My latest project is a **[Marvel Rivals Ability Builder](https://github.com/SeanOnamade/marvel-rivals-character-concept-app)** — a web app allowing you to create custom hero ability pages that look straight out of the game! Live at **[marvelrivalsconcepts.vercel.app!](https://marvelrivalsconcepts.vercel.app/)**
+- 📸 Check out my **[photography portfolio!](https://seanonamade-photography.netlify.app/)**
+- 📫 Reach me at **onamadesean@gmail.com**
+- 📄 Here's my **[resume...](https://sean-onamade-resume.tiiny.site/)**
+- 🗺️ Fun fact: **I lived in Scotland for 7 years!**
 
 <h3 align="left">Connect with me</h3>
 <div align="left">
