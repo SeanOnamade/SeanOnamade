@@ -18,11 +18,17 @@
 <img src="https://skillicons.dev/icons?i=cpp,css,firebase,git,github,html,js,md,notion,py,react,nextjs,tailwind,vite,vscode,bootstrap,clion,express,figma,flask,heroku,jquery,threejs,netlify,nodejs,r,ts,vercel,mongodb,sqlite,supabase,aws,mysql,vue,fastapi,postgres,docker,electron,wordpress,postman&theme=dark&perline=10" alt="Languages and Tools" />
 </div>
 
-<!-- Stats cards: public vercel.app instance is often down.
-     Recommended: https://github.com/marketplace/actions/github-readme-stats-action -->
-<!--
+<br clear="both" />
+<br clear="both" />
+<br clear="both" />
+
+<h3 align="center">GitHub Stats</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeanOnamade&layout=compact&theme=ambient_gradient" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=SeanOnamade&hide=prs,issues,contrib&show_icons=true&theme=ambient_gradient&rank_icon=github&include_all_commits=true" alt="GitHub Stats" />
+
+[![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=SeanOnamade&layout=pie&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
+
+<br />
+
+[![Sean's GitHub stats](https://github-readme-stats.shion.dev/api?username=SeanOnamade&hide=prs,issues,contrib&show_icons=true&theme=ambient_gradient&rank_icon=github&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
--->
